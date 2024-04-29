@@ -1,0 +1,15 @@
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.GeneratedMSBuildEditorConfig.editorconfig
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.AssemblyInfoInputs.cache
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.AssemblyInfo.cs
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.csproj.CoreCompileInputs.cache
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.sourcelink.json
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\bin\Debug\net8.0\lab_1_hyrol.exe
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\bin\Debug\net8.0\lab_1_hyrol.deps.json
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\bin\Debug\net8.0\lab_1_hyrol.runtimeconfig.json
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\bin\Debug\net8.0\lab_1_hyrol.dll
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\bin\Debug\net8.0\lab_1_hyrol.pdb
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.dll
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\refint\lab_1_hyrol.dll
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.pdb
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\lab_1_hyrol.genruntimeconfig.cache
+E:\Валерія\КПЗ\lab_1_hyrol\lab_1_hyrol\obj\Debug\net8.0\ref\lab_1_hyrol.dll

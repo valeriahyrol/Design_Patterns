@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\\u043A\u043F\u0437\\git\\lab_1_hyrol\\lab_1_hyrol\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|solutionrelative:lab_1_hyrol\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\\u043A\u043F\u0437\\git\\lab_1_hyrol\\lab_1_hyrol\\shopcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|solutionrelative:lab_1_hyrol\\shopcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\\u043A\u043F\u0437\\git\\lab_1_hyrol\\lab_1_hyrol\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|solutionrelative:lab_1_hyrol\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|e:\\\u0432\u0430\u043B\u0435\u0440\u0456\u044F\\\u043A\u043F\u0437\\git\\lab_1_hyrol\\lab_1_hyrol\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A746BAF9-4100-4523-8B81-5D29079D0B96}|lab_1_hyrol\\lab_1_hyrol.csproj|solutionrelative:lab_1_hyrol\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Warehouse.cs",
+              "RelativeDocumentMoniker": "lab_1_hyrol\\Warehouse.cs",
+              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Warehouse.cs",
+              "RelativeToolTip": "lab_1_hyrol\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:23:08.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopCart.cs",
+              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\ShopCart.cs",
+              "RelativeDocumentMoniker": "lab_1_hyrol\\ShopCart.cs",
+              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\ShopCart.cs",
+              "RelativeToolTip": "lab_1_hyrol\\ShopCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:23:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporting.cs",
+              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Reporting.cs",
+              "RelativeDocumentMoniker": "lab_1_hyrol\\Reporting.cs",
+              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Reporting.cs",
+              "RelativeToolTip": "lab_1_hyrol\\Reporting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:23:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Category.cs",
+              "RelativeDocumentMoniker": "lab_1_hyrol\\Category.cs",
+              "ToolTip": "E:\\\u0412\u0430\u043B\u0435\u0440\u0456\u044F\\\u041A\u041F\u0417\\git\\lab_1_hyrol\\lab_1_hyrol\\Category.cs",
+              "RelativeToolTip": "lab_1_hyrol\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:23:05.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

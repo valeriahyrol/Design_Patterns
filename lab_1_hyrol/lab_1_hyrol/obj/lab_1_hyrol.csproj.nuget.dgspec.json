@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Валерія\\КПЗ\\git\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj": {}
+    "E:\\Валерія\\КПЗ\\git\\пше\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj": {}
   },
   "projects": {
-    "E:\\Валерія\\КПЗ\\git\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj": {
+    "E:\\Валерія\\КПЗ\\git\\пше\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Валерія\\КПЗ\\git\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj",
+        "projectUniqueName": "E:\\Валерія\\КПЗ\\git\\пше\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj",
         "projectName": "lab_1_hyrol",
-        "projectPath": "E:\\Валерія\\КПЗ\\git\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj",
+        "projectPath": "E:\\Валерія\\КПЗ\\git\\пше\\lab_1_hyrol\\lab_1_hyrol\\lab_1_hyrol.csproj",
         "packagesPath": "C:\\Users\\PoweR\\.nuget\\packages\\",
-        "outputPath": "E:\\Валерія\\КПЗ\\git\\lab_1_hyrol\\lab_1_hyrol\\obj\\",
+        "outputPath": "E:\\Валерія\\КПЗ\\git\\пше\\lab_1_hyrol\\lab_1_hyrol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PoweR\\AppData\\Roaming\\NuGet\\NuGet.Config",

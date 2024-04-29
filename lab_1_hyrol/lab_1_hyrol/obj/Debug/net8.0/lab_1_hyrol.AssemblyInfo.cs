@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab_1_hyrol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50d681f4e8a3913fc832796877c2ed5b141d110")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2373296ad93a67a1f72564597d7722799353c7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab_1_hyrol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab_1_hyrol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

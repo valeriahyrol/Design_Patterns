@@ -1,0 +1,15 @@
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\bin\Debug\net8.0\lab_2.exe
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\bin\Debug\net8.0\lab_2.deps.json
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\bin\Debug\net8.0\lab_2.runtimeconfig.json
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\bin\Debug\net8.0\lab_2.dll
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\bin\Debug\net8.0\lab_2.pdb
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfoInputs.cache
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.AssemblyInfo.cs
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.csproj.CoreCompileInputs.cache
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.sourcelink.json
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.dll
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\refint\lab_2.dll
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.pdb
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\lab_2.genruntimeconfig.cache
+E:\Валерія\КПЗ\git\lab_2_hyrol\lab_2\lab_2\obj\Debug\net8.0\ref\lab_2.dll

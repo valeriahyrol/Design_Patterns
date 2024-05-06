@@ -20,15 +20,11 @@ namespace lab_3_hyrol.Compon
             Console.WriteLine(text);
         }
     }
-
-    // Типи відображення елементів розмітки
     public enum DisplayType
     {
         Block,
         Inline
     }
-
-    // Типи закриття елементів розмітки
     public enum ClosingType
     {
         SingleTag,

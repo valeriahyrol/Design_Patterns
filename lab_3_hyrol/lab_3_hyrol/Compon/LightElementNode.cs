@@ -45,7 +45,6 @@ namespace lab_3_hyrol.Compon
 
         private List<string> GetCssClasses()
         {
-            // Повертаємо список CSS класів (зараз пустий)
             return new List<string>();
         }
     }
